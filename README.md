@@ -1,4 +1,4 @@
-## Interview Test: LogMeIn 
+## Overview
 In-memory database built using java.
 The src folder contains the following:
 - driver class: containing the main class from which the project is launched
